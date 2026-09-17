@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/
+.venv/
+voice_samples/
+comparison_results*.json
+extraction_results.json
