@@ -6,3 +6,8 @@ data/
 voice_samples/
 comparison_results*.json
 extraction_results.json
+
+.venv_backup/
+.venv_old/
+.venvv/
+.idea/
